@@ -1,0 +1,3 @@
+﻿  90-02-b1-console.cpp
+D:\study_files\面向对象\大作业模版\BigHW\90-02-b1\90-02-b1.h(1,1): warning C4828: 文件包含在偏移 0x826 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  90-02-b1.vcxproj -> D:\study_files\面向对象\大作业模版\BigHW\Debug\90-02-b1.exe
